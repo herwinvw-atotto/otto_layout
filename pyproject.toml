@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "otto-layout"
-version = "0.0.3"
+version = "0.0.4"
 description = ""
 authors = ["Herwin van Welbergen <h.vanwelbergen@otto.de>"]
 
